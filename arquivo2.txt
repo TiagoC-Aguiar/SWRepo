@@ -1,0 +1,1 @@
+Deve ser realizado o comando git add primeiramente, antes de comitar tudo
