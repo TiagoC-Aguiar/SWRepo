@@ -1,1 +1,2 @@
 Deve ser realizado o comando git add primeiramente, antes de comitar tudo
+Esta linha foi adicionada pela nova branch novaBranch
