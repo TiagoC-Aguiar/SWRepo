@@ -1,4 +1,9 @@
-Este é um novo arquivo criado para resolulão dos exercícios do curso de GIT
+﻿Este é um novo arquivo criado para resolulão dos exercícios do curso de GIT
 Linhas 2 e 3 alteradas...
 ... pela branch master
 nova linha crianda com a branch novaBranch
+
+
+Lucas virado num teteu
+
+nova linha
